@@ -10,5 +10,3 @@ asda
 aaaa
 
 asdassd
-
-14
